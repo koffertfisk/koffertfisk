@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a crossover UI/UX designer and software engineer with a Master's degree in Computer and Information Engineering from Uppsala University, specializing in human-computer interaction and usability.
+
+In my free time, I enjoy:
+* Exploring technology
+* Engaging in sports and fitness (particularly long-distance running and water sports)
+* Gardeing, hiking and appreciating wildlife
+* Playing and listening to music
